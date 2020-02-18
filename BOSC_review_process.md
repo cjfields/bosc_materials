@@ -117,5 +117,3 @@ We try to be liberal with poster acceptances for any abstract that shows some co
 
 All abstracts accepted for a long or lightning talk are automatically also eligible for poster presentation.
 
-
-<!-- Docs to Markdown version 1.0β17 -->
